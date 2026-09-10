@@ -1,0 +1,8 @@
+PyQt5
+numpy
+pandas
+scipy
+scikit-learn
+xgboost
+joblib
+rich
